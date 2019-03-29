@@ -7,7 +7,7 @@ const route_api = require('./routes/api');
 const route_web = require('./routes/web');
 
 const app = express();
-const server = require('http').createServer(app);
+// const server = require('http').createServer(app);
 // const io = require('socket.io')(server);
 // app.use(express.static(__dirname + '/node_modules'));
 
