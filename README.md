@@ -1,6 +1,9 @@
 # NodeJS + Express (MVC)
-mvc structure
-- NodeJS + MongoDB + Line Notify
+Sample NodeJS + MongoDB + Line Notify
 
-----------
-By: Rawin
+
+### Usage
+- git clone https://github.com/rawinby/NodeJS-Express-MVC.git
+- cd NodeJS-Express-MVC
+- npm install
+- npm start
